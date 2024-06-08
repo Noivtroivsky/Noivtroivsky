@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Noiv 👋
 
 <!--
 **Noivtroivsky/Noivtroivsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noivtroivsky&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Noivtroivsky/Noivtroivsky/output/snake.svg" alt="Snake animation" />
+
+###
