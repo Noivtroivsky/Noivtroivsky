@@ -7,8 +7,3 @@
 
 I still don't know how to do the snake thing... :)
 
-<!--
-<img src="https://raw.githubusercontent.com/Noivtroivsky/Noivtroivsky/output/snake.svg" alt="Snake animation" />
--->
-
-
